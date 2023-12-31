@@ -60,8 +60,9 @@ Certainly! Let's delve deeper into the various aspects of your CS50 final projec
    - **Networking Opportunities**: Presenting WikiFood in forums like CS50's final project showcase can open doors for networking with peers and professionals in the tech industry.
 
 ### Reflection and Learning Experience:
-    - **Overcoming Challenges**: Reflect on the challenges faced during the development process and how you overcame them.
+   - **Overcoming Challenges**: Reflect on the challenges faced during the development process and how you overcame them.
     - **Knowledge Gained**: Consider the new knowledge and skills acquired through this project, and how they can be applied to future endeavors.
+    
 
 ### Final Thoughts
 WikiFood, as a CS50 final project, stands as a testament to the practical application of programming and web development skills. It bridges the gap between technology and culinary arts, providing a unique platform for food lovers and cooks alike. The integration of Flask and Spoonacular API, combined with user-centric design, makes WikiFood a potential go-to resource for anyone interested in exploring the world of gastronomy.
