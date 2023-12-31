@@ -1,4 +1,4 @@
-Your CS50 final project, WikiFood, is an ambitious and innovative concept that combines technology with gastronomy. Here's a detailed breakdown covering various aspects of your project:
+WikiFood, is an ambitious and innovative concept that combines technology with gastronomy. Here's a detailed breakdown covering various aspects of your project:
 
 1. **Project Overview**: WikiFood is a comprehensive online platform dedicated to gastronomy. It serves as a one-stop destination for food enthusiasts, offering detailed information about a wide range of dishes.
 
