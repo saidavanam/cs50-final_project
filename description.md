@@ -1,4 +1,4 @@
-Certainly! Let's delve deeper into the various aspects of your CS50 final project, WikiFood, which is a comprehensive web application focused on gastronomy:
+ WikiFood, which is a comprehensive web application focused on gastronomy:
 
 ### Concept and Purpose
 - **WikiFood**: An all-encompassing digital platform dedicated to everything related to food and cooking.
@@ -61,7 +61,7 @@ Certainly! Let's delve deeper into the various aspects of your CS50 final projec
 
 ### Reflection and Learning Experience:
    - **Overcoming Challenges**: Reflect on the challenges faced during the development process and how you overcame them.
-    - **Knowledge Gained**: Consider the new knowledge and skills acquired through this project, and how they can be applied to future endeavors.
+   - **Knowledge Gained**: Consider the new knowledge and skills acquired through this project, and how they can be applied to future endeavors.
     
 
 ### Final Thoughts
